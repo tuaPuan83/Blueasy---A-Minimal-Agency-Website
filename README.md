@@ -65,11 +65,11 @@ Project Structure
 How to Run Locally
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/tuaPuan83/Blueasy---A-Minimal-Agency-Website.git
 
 Navigate to the project directory:
 
-cd YOUR_REPO_NAME
+cd Blueasy---A-Minimal-Agency-Website
 
 Open index.html:
 Simply open the index.html file in your preferred web browser.
